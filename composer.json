@@ -1,0 +1,30 @@
+{
+    "name": "mozgbrasil/magento-mass-shipment",
+    "description": " ",
+    "version": "1.0.0",
+    "type": "magento-module",
+    "keywords": ["cerebrum", "mozg", "magento" ],
+    "homepage": "http://mozg.com.br",
+    "time": "2017-10-03 15:09:33",
+    "license": [
+        "proprietary"
+    ],
+    "authors": [
+        {
+            "name": "Marcio dos Santos Amorim",
+            "email": "suporte@mozg.com.br",
+            "homepage": "http://mozg.com.br",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "suporte@mozg.com.br",
+        "issues": "https://github.com/mozgbrasil/magento-massshipment/issues",
+        "forum": "http://mozg.com.br/forums/view/1",
+        "wiki": "http://wiki.mozg.com.br",
+        "irc": "irc://irc.freenode.org/mozgbrasil",
+        "source": "https://github.com/mozgbrasil/magento-massshipment",
+        "docs": "https://github.com/mozgbrasil/magento-massshipment/wiki",
+        "rss": "http://mozg.com.br/sitemap.xml"
+    }
+}
